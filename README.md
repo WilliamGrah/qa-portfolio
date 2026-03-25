@@ -1,5 +1,3 @@
-# QA Portfolio - William Grah
-
 Welcome to my QA Engineering portfolio! This repository showcases my manual and automated testing projects.
 
 ## About Me
